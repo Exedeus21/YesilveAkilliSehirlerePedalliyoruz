@@ -1,0 +1,1755 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-07-16T19:07:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102190096",
+        "addr:city": "İstanbul",
+        "addr:district": "Kadıköy",
+        "addr:neighbourhood": "Caferağa",
+        "building": "transportation",
+        "building:levels": "2",
+        "name": "Kadıköy (Beşiktaş) İskelesi",
+        "operator": "Şehir Hatları",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0215028,
+              40.9915133
+            ],
+            [
+              29.0215415,
+              40.9915273
+            ],
+            [
+              29.0215551,
+              40.9915058
+            ],
+            [
+              29.0216298,
+              40.9915329
+            ],
+            [
+              29.0216393,
+              40.9915179
+            ],
+            [
+              29.0217838,
+              40.9915701
+            ],
+            [
+              29.021777,
+              40.9915808
+            ],
+            [
+              29.021852,
+              40.991608
+            ],
+            [
+              29.0218592,
+              40.9916106
+            ],
+            [
+              29.0218465,
+              40.9916306
+            ],
+            [
+              29.0219002,
+              40.99165
+            ],
+            [
+              29.0218602,
+              40.9917132
+            ],
+            [
+              29.0218509,
+              40.9917278
+            ],
+            [
+              29.0217925,
+              40.9917067
+            ],
+            [
+              29.0217748,
+              40.9917345
+            ],
+            [
+              29.0214837,
+              40.9916291
+            ],
+            [
+              29.0215012,
+              40.9916016
+            ],
+            [
+              29.0214569,
+              40.9915855
+            ],
+            [
+              29.0214646,
+              40.9915734
+            ],
+            [
+              29.0215028,
+              40.9915133
+            ]
+          ]
+        ]
+      },
+      "id": "way/102190096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179197279",
+        "Transport": "Minibüs Durağı",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Minibüs Durakları",
+        "name:ar": "محطة باص - النقل الداخلي العام",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0229589,
+              40.9955684
+            ],
+            [
+              29.0231094,
+              40.9952678
+            ],
+            [
+              29.0242221,
+              40.9953415
+            ],
+            [
+              29.0243215,
+              40.9954463
+            ],
+            [
+              29.0243467,
+              40.9954728
+            ],
+            [
+              29.0243063,
+              40.9955797
+            ],
+            [
+              29.0241703,
+              40.9956254
+            ],
+            [
+              29.0239886,
+              40.9956428
+            ],
+            [
+              29.023984,
+              40.9956764
+            ],
+            [
+              29.0238743,
+              40.9956654
+            ],
+            [
+              29.02387,
+              40.9956909
+            ],
+            [
+              29.0229589,
+              40.9955684
+            ]
+          ]
+        ]
+      },
+      "id": "way/179197279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179448050",
+        "building": "train_station",
+        "name": "Bostancı Tarihi Tren İstasyonu",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0955725,
+              40.9539715
+            ],
+            [
+              29.0955204,
+              40.9538792
+            ],
+            [
+              29.0956615,
+              40.9538338
+            ],
+            [
+              29.0957136,
+              40.9539262
+            ],
+            [
+              29.0955725,
+              40.9539715
+            ]
+          ]
+        ]
+      },
+      "id": "way/179448050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202569515",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "İETT Hasanpaşa Garajı",
+        "public_transport": "station",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0438744,
+              40.9932847
+            ],
+            [
+              29.0433591,
+              40.9938576
+            ],
+            [
+              29.0441077,
+              40.9941807
+            ],
+            [
+              29.0434919,
+              40.9945627
+            ],
+            [
+              29.0426088,
+              40.9949926
+            ],
+            [
+              29.0423208,
+              40.9949719
+            ],
+            [
+              29.0415359,
+              40.9948711
+            ],
+            [
+              29.0416807,
+              40.9944702
+            ],
+            [
+              29.0418685,
+              40.9940977
+            ],
+            [
+              29.0423482,
+              40.9936552
+            ],
+            [
+              29.0423825,
+              40.9935397
+            ],
+            [
+              29.0428703,
+              40.9931497
+            ],
+            [
+              29.0433656,
+              40.9926893
+            ],
+            [
+              29.0434939,
+              40.9927616
+            ],
+            [
+              29.0440696,
+              40.993085
+            ],
+            [
+              29.0438744,
+              40.9932847
+            ]
+          ]
+        ]
+      },
+      "id": "way/202569515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236495360",
+        "amenity": "ferry_terminal",
+        "barrier": "fence",
+        "ferry": "yes",
+        "name": "Kadıköy Deniz Otobüsü İskelesi",
+        "name:en": "Kadıköy Seabus Pier",
+        "name:tr": "Kadıköy İDO İskelesi",
+        "network": "Bostancı, Yenikapı, Bakırköy",
+        "operator": "İDO",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0186548,
+              40.9910754
+            ],
+            [
+              29.0186327,
+              40.9910392
+            ],
+            [
+              29.0185161,
+              40.9910755
+            ],
+            [
+              29.0183204,
+              40.9911389
+            ],
+            [
+              29.0183023,
+              40.9911536
+            ],
+            [
+              29.018295,
+              40.9911708
+            ],
+            [
+              29.0182775,
+              40.9916815
+            ],
+            [
+              29.0182427,
+              40.9916815
+            ],
+            [
+              29.0182078,
+              40.9916815
+            ],
+            [
+              29.0182192,
+              40.9911925
+            ],
+            [
+              29.0182152,
+              40.9911892
+            ],
+            [
+              29.0182007,
+              40.9911872
+            ],
+            [
+              29.0181904,
+              40.991188
+            ],
+            [
+              29.0179329,
+              40.9912791
+            ],
+            [
+              29.0179554,
+              40.9913204
+            ],
+            [
+              29.0173481,
+              40.9915271
+            ],
+            [
+              29.0172931,
+              40.9914385
+            ],
+            [
+              29.0172754,
+              40.99141
+            ],
+            [
+              29.0181083,
+              40.9911152
+            ],
+            [
+              29.0182364,
+              40.9910699
+            ],
+            [
+              29.0183382,
+              40.9910339
+            ],
+            [
+              29.0185778,
+              40.9909491
+            ],
+            [
+              29.0185453,
+              40.9908958
+            ],
+            [
+              29.0188194,
+              40.9908006
+            ],
+            [
+              29.0188405,
+              40.9908353
+            ],
+            [
+              29.0189096,
+              40.9909486
+            ],
+            [
+              29.0189288,
+              40.9909801
+            ],
+            [
+              29.0189054,
+              40.9909883
+            ],
+            [
+              29.0189226,
+              40.9910166
+            ],
+            [
+              29.0187017,
+              40.9910932
+            ],
+            [
+              29.0186845,
+              40.9910651
+            ],
+            [
+              29.0186548,
+              40.9910754
+            ]
+          ]
+        ]
+      },
+      "id": "way/236495360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236642399",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "man_made": "pier",
+        "name": "Kadıköy Turyol İskelesi",
+        "network": "Eminönü, Karaköy",
+        "operator": "Turyol",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0204085,
+              40.9913845
+            ],
+            [
+              29.0205479,
+              40.9911723
+            ],
+            [
+              29.0205836,
+              40.9911864
+            ],
+            [
+              29.0206183,
+              40.9911987
+            ],
+            [
+              29.0204789,
+              40.9914109
+            ],
+            [
+              29.0204425,
+              40.9913973
+            ],
+            [
+              29.0204085,
+              40.9913845
+            ]
+          ]
+        ]
+      },
+      "id": "way/236642399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236994818",
+        "Transport": "Minibüs Durağı",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Dolmuş Durakları",
+        "name:en": "Shared Minivan Station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0210813,
+              40.9907635
+            ],
+            [
+              29.0208856,
+              40.9910658
+            ],
+            [
+              29.0208602,
+              40.9910564
+            ],
+            [
+              29.0203195,
+              40.990857
+            ],
+            [
+              29.0205151,
+              40.9905547
+            ],
+            [
+              29.0210813,
+              40.9907635
+            ]
+          ]
+        ]
+      },
+      "id": "way/236994818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403827619",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Bostancı Deniz Otobüsü İskelesi",
+        "name:tr": "Bostancı İDO İskelesi",
+        "operator": "İDO",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0917582,
+              40.95234
+            ],
+            [
+              29.0921056,
+              40.951551
+            ],
+            [
+              29.0921713,
+              40.9515722
+            ],
+            [
+              29.0919741,
+              40.9520189
+            ],
+            [
+              29.0926246,
+              40.9521766
+            ],
+            [
+              29.0926594,
+              40.952185
+            ],
+            [
+              29.0928089,
+              40.9518395
+            ],
+            [
+              29.0928318,
+              40.951845
+            ],
+            [
+              29.0928628,
+              40.9518526
+            ],
+            [
+              29.0927151,
+              40.9521995
+            ],
+            [
+              29.0932187,
+              40.9523289
+            ],
+            [
+              29.0933729,
+              40.9519804
+            ],
+            [
+              29.0934413,
+              40.9519976
+            ],
+            [
+              29.0932911,
+              40.9523481
+            ],
+            [
+              29.0934722,
+              40.9523937
+            ],
+            [
+              29.0934109,
+              40.9525558
+            ],
+            [
+              29.093299,
+              40.9525287
+            ],
+            [
+              29.0932754,
+              40.9525843
+            ],
+            [
+              29.0931845,
+              40.9525623
+            ],
+            [
+              29.0931745,
+              40.9525857
+            ],
+            [
+              29.0929894,
+              40.9525411
+            ],
+            [
+              29.0929752,
+              40.9525748
+            ],
+            [
+              29.0929339,
+              40.9525648
+            ],
+            [
+              29.0929198,
+              40.9525983
+            ],
+            [
+              29.0917582,
+              40.95234
+            ]
+          ]
+        ]
+      },
+      "id": "way/403827619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404524230",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Bostancı Vapur İskelesi",
+        "network": "Adalar",
+        "operator": "Şehir Hatları",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0944922,
+              40.9521931
+            ],
+            [
+              29.0944224,
+              40.9521151
+            ],
+            [
+              29.0944017,
+              40.9521262
+            ],
+            [
+              29.0940677,
+              40.9518031
+            ],
+            [
+              29.0938853,
+              40.9517464
+            ],
+            [
+              29.0938148,
+              40.9515743
+            ],
+            [
+              29.0938442,
+              40.9515403
+            ],
+            [
+              29.0940247,
+              40.9514908
+            ],
+            [
+              29.0941831,
+              40.9514506
+            ],
+            [
+              29.0942563,
+              40.9515634
+            ],
+            [
+              29.094352,
+              40.9517109
+            ],
+            [
+              29.0942944,
+              40.9517656
+            ],
+            [
+              29.0943151,
+              40.9517927
+            ],
+            [
+              29.0946247,
+              40.9521124
+            ],
+            [
+              29.0947538,
+              40.9522388
+            ],
+            [
+              29.0946385,
+              40.9523078
+            ],
+            [
+              29.0945114,
+              40.9521905
+            ],
+            [
+              29.0944922,
+              40.9521931
+            ]
+          ]
+        ]
+      },
+      "id": "way/404524230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404524231",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Bostancı Motor İskelesi",
+        "network": "Adalar",
+        "operator": "Mavi Marmara",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0936766,
+              40.9523877
+            ],
+            [
+              29.0939715,
+              40.9522923
+            ],
+            [
+              29.0942486,
+              40.9522026
+            ],
+            [
+              29.094281,
+              40.9522609
+            ],
+            [
+              29.093711,
+              40.9524463
+            ],
+            [
+              29.0936766,
+              40.9523877
+            ]
+          ]
+        ]
+      },
+      "id": "way/404524231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544529612",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "İETT Kadıköy Peronları",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0238838,
+              40.9949898
+            ],
+            [
+              29.0241677,
+              40.994411
+            ],
+            [
+              29.0242358,
+              40.9938345
+            ],
+            [
+              29.0245734,
+              40.9936538
+            ],
+            [
+              29.0246729,
+              40.9936471
+            ],
+            [
+              29.024654,
+              40.9941116
+            ],
+            [
+              29.0245972,
+              40.9944927
+            ],
+            [
+              29.0244595,
+              40.9954863
+            ],
+            [
+              29.0243467,
+              40.9954728
+            ],
+            [
+              29.0243215,
+              40.9954463
+            ],
+            [
+              29.0242221,
+              40.9953415
+            ],
+            [
+              29.0231094,
+              40.9952678
+            ],
+            [
+              29.0231668,
+              40.9951504
+            ],
+            [
+              29.0238838,
+              40.9949898
+            ]
+          ]
+        ]
+      },
+      "id": "way/544529612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560203763",
+        "addr:city": "İstanbul",
+        "addr:district": "Kadıköy",
+        "addr:neighbourhood": "Caferağa",
+        "building": "transportation",
+        "building:levels": "2",
+        "name": "Kadıköy İskelesi",
+        "operator": "Şehir Hatları",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0226526,
+              40.9931667
+            ],
+            [
+              29.022482,
+              40.9929671
+            ],
+            [
+              29.0233398,
+              40.9925495
+            ],
+            [
+              29.0233435,
+              40.9925538
+            ],
+            [
+              29.0235104,
+              40.9927491
+            ],
+            [
+              29.0226526,
+              40.9931667
+            ]
+          ]
+        ]
+      },
+      "id": "way/560203763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661348432",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "İETT Kadıköy Peronları",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0246974,
+              40.9935802
+            ],
+            [
+              29.024623,
+              40.9936002
+            ],
+            [
+              29.0244062,
+              40.9933305
+            ],
+            [
+              29.0238675,
+              40.9926604
+            ],
+            [
+              29.0238585,
+              40.9926492
+            ],
+            [
+              29.0238398,
+              40.9926062
+            ],
+            [
+              29.0238351,
+              40.9925707
+            ],
+            [
+              29.0238384,
+              40.9925252
+            ],
+            [
+              29.0238485,
+              40.9925009
+            ],
+            [
+              29.023878,
+              40.9924619
+            ],
+            [
+              29.0240758,
+              40.9922377
+            ],
+            [
+              29.0242564,
+              40.9921967
+            ],
+            [
+              29.0243537,
+              40.9921865
+            ],
+            [
+              29.0245307,
+              40.9925399
+            ],
+            [
+              29.0246811,
+              40.9928406
+            ],
+            [
+              29.0246974,
+              40.9935802
+            ]
+          ]
+        ]
+      },
+      "id": "way/661348432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903128674",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "İETT Uzunçayır Metrobüs Peronları",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0576968,
+              40.9981885
+            ],
+            [
+              29.0566607,
+              40.9985879
+            ],
+            [
+              29.0565431,
+              40.9984954
+            ],
+            [
+              29.0566427,
+              40.9984253
+            ],
+            [
+              29.0575498,
+              40.9974994
+            ],
+            [
+              29.0576995,
+              40.9976297
+            ],
+            [
+              29.0576968,
+              40.9981885
+            ]
+          ]
+        ]
+      },
+      "id": "way/903128674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908662777",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "ferry": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0940222,
+              40.951714
+            ],
+            [
+              29.0939694,
+              40.9516004
+            ],
+            [
+              29.0940506,
+              40.9515793
+            ],
+            [
+              29.0941584,
+              40.9515513
+            ],
+            [
+              29.0942052,
+              40.9516649
+            ],
+            [
+              29.0941232,
+              40.9516869
+            ],
+            [
+              29.0940222,
+              40.951714
+            ]
+          ]
+        ]
+      },
+      "id": "way/908662777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908662778",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "ferry": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0946247,
+              40.9521124
+            ],
+            [
+              29.0946702,
+              40.9521595
+            ],
+            [
+              29.0946252,
+              40.9521844
+            ],
+            [
+              29.0945657,
+              40.9522173
+            ],
+            [
+              29.0942107,
+              40.9518504
+            ],
+            [
+              29.0942565,
+              40.951825
+            ],
+            [
+              29.0943151,
+              40.9517927
+            ],
+            [
+              29.0946247,
+              40.9521124
+            ]
+          ]
+        ]
+      },
+      "id": "way/908662778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1060055716",
+        "bridge": "yes",
+        "building": "yes",
+        "layer": "1",
+        "name": "Tarihi Göztepe Tren İstasyonu",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.0665874,
+              40.9792101
+            ],
+            [
+              29.0665789,
+              40.9791962
+            ],
+            [
+              29.0665533,
+              40.9791544
+            ],
+            [
+              29.0665308,
+              40.9791177
+            ],
+            [
+              29.0664866,
+              40.9790455
+            ],
+            [
+              29.0666154,
+              40.9790005
+            ],
+            [
+              29.0667162,
+              40.9791652
+            ],
+            [
+              29.0665874,
+              40.9792101
+            ]
+          ]
+        ]
+      },
+      "id": "way/1060055716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409151054",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name:ru": "Кадыкёй",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0225349,
+          40.9930645
+        ]
+      },
+      "id": "node/409151054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583523020",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0215599,
+          40.9918247
+        ]
+      },
+      "id": "node/583523020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672727485",
+        "amenity": "ferry_terminal",
+        "comment": "Train ferry terminal",
+        "ferry": "yes",
+        "name": "Haydarpaşa Feribot İskelesi",
+        "name:ar": "محطة حيدر باشا فيريبوت اسكلسي للنقل البحري",
+        "public_transport": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0184902,
+          40.9974547
+        ]
+      },
+      "id": "node/672727485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898299271",
+        "name": "Kadıköy",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712376",
+        "wikipedia": "tr:Kadıköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0220448,
+          40.9905872
+        ]
+      },
+      "id": "node/1898299271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898304351",
+        "local_ref": "2",
+        "name": "Ayrılık Çeşmesi",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712120",
+        "wikipedia": "tr:Ayrılık Çeşmesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0304229,
+          41.000235
+        ]
+      },
+      "id": "node/1898304351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314728",
+        "name": "Yenisahra",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46696116",
+        "wikipedia": "tr:Yenisahra (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0904257,
+          40.9845938
+        ]
+      },
+      "id": "node/1898314728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314736",
+        "name": "Acıbadem",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46639579",
+        "wikipedia": "tr:Acıbadem (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0444009,
+          41.0023323
+        ]
+      },
+      "id": "node/1898314736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314743",
+        "name": "Bostancı",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46717966",
+        "wikipedia": "tr:Bostancı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1053769,
+          40.964688
+        ]
+      },
+      "id": "node/1898314743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1908362611",
+        "name": "Erenköy",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0763701,
+          40.9716688
+        ]
+      },
+      "id": "node/1908362611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2349794761",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "كاديكوي",
+        "name:en": "Kadıköy - Eminönü",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0230008,
+          40.9930191
+        ]
+      },
+      "id": "node/2349794761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446513149",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0204425,
+          40.9913973
+        ]
+      },
+      "id": "node/2446513149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2447719712",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Minibüs Durakları",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0956206,
+          40.9528315
+        ]
+      },
+      "id": "node/2447719712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2453602217",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Turyol Karaköy Eminönü İskelesi",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0187941,
+          40.9957667
+        ]
+      },
+      "id": "node/2453602217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3279313968",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Kadikoy Ferry",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0238888,
+          40.9937239
+        ]
+      },
+      "id": "node/3279313968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3279318783",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Havabüs Durağı",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0238887,
+          40.9938136
+        ]
+      },
+      "id": "node/3279318783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4061318675",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Bostancı İskele",
+        "operator": "İETT",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0944056,
+          40.9523491
+        ]
+      },
+      "id": "node/4061318675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4162000643",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Bostancı",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0942563,
+          40.9515634
+        ]
+      },
+      "id": "node/4162000643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169858237",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kadıköy",
+        "operator": "İETT",
+        "public_transport": "station",
+        "ref": "FB1",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0242514,
+          40.9925952
+        ]
+      },
+      "id": "node/4169858237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4877506434",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Kantarcı",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0727951,
+          40.9647499
+        ]
+      },
+      "id": "node/4877506434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132629144",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ayrılıkçeşme Marmaray",
+        "public_transport": "station",
+        "route_ref": "21B;319",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0326778,
+          40.999434
+        ]
+      },
+      "id": "node/5132629144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272471218",
+        "name": "Bostancı",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q4947652",
+        "wikipedia": "tr:Bostancı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.095501,
+          40.9537549
+        ]
+      },
+      "id": "node/5272471218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272473025",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bus": "yes",
+        "name": "Üstbostancı",
+        "public_transport": "station",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.094437,
+          40.9560905
+        ]
+      },
+      "id": "node/5272473025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5298185983",
+        "name": "Suadiye",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q48989341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0844637,
+          40.9605007
+        ]
+      },
+      "id": "node/5298185983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6321654790",
+        "name": "Söğütlüçeşme",
+        "name:ru": "Сёгутлючешме",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0376538,
+          40.9910017
+        ]
+      },
+      "id": "node/6321654790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169452",
+        "name": "Feneryolu",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q15136719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0487327,
+          40.9788502
+        ]
+      },
+      "id": "node/6328169452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690847579",
+        "addr:city": "Istanbul",
+        "addr:district": "Kadıköy",
+        "addr:housenumber": "61",
+        "addr:neighbourhood": "Göztepe",
+        "addr:postcode": "34730",
+        "addr:street": "Yeşilbahar Sokağı",
+        "name": "Göztepe",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5626765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.062645,
+          40.9792219
+        ]
+      },
+      "id": "node/6690847579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6990260797",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Kadıköy - Kabataş",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0231271,
+          40.9929562
+        ]
+      },
+      "id": "node/6990260797"
+    }
+  ]
+}

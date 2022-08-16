@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-07-16T18:39:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6684091426",
+        "alt_name": "Okan Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu",
+        "amenity": "university",
+        "name": "Okan Meslek Yüksekokulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0447047,
+          40.9954267
+        ]
+      },
+      "id": "node/6684091426"
+    }
+  ]
+}
