@@ -1,0 +1,2168 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-07-16T20:15:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769896276",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0344823,
+          41.0070008
+        ]
+      },
+      "id": "node/769896276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769896329",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0367998,
+          41.009122
+        ]
+      },
+      "id": "node/769896329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769896388",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0385808,
+          41.0115832
+        ]
+      },
+      "id": "node/769896388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1436025857",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Kuruçeşme Durağı‎",
+        "name": "Kuruçeşme Durağı‎",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0416582,
+          41.0018428
+        ]
+      },
+      "id": "node/1436025857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1436025860",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Kuruçeşme Durağı‎",
+        "name": "Kuruçeşme Durağı‎",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0413038,
+          41.001892
+        ]
+      },
+      "id": "node/1436025860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1436026510",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Acıbadem Metro İstasyonu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0445095,
+          41.002245
+        ]
+      },
+      "id": "node/1436026510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757620440",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ziverbey",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0428314,
+          40.988695
+        ]
+      },
+      "id": "node/1757620440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1757620442",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ziverbey",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0434749,
+          40.9882089
+        ]
+      },
+      "id": "node/1757620442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769501345",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Eski Karakol Durağı",
+        "name": "Eski Karakol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0440778,
+          41.003808
+        ]
+      },
+      "id": "node/1769501345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769501749",
+        "alt_name": "Eski Karakol Durağı",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Eski Karakol Durağı",
+        "name": "Kadıköy İmam Hatip Lisesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.044147,
+          41.0036212
+        ]
+      },
+      "id": "node/1769501749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769502570",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Fakülte",
+        "name": "Fakülte",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0463013,
+          41.0060142
+        ]
+      },
+      "id": "node/1769502570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769502644",
+        "alt_name": "Marmara Üniversitesi Güzel Sanatlar Enstitüsü",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Fakülte",
+        "name": "Fakülte",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.046258,
+          41.0056942
+        ]
+      },
+      "id": "node/1769502644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1866937778",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ethemefendi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0785092,
+          40.9780391
+        ]
+      },
+      "id": "node/1866937778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2198045902",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0377232,
+          40.9987979
+        ]
+      },
+      "id": "node/2198045902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2198045909",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sakızağacı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0379963,
+          40.9986899
+        ]
+      },
+      "id": "node/2198045909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2362635406",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Söğütlüçeşme (Metrobüs)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.037842,
+          40.9914448
+        ]
+      },
+      "id": "node/2362635406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2366810458",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fikirtepe",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0471334,
+          40.9937033
+        ]
+      },
+      "id": "node/2366810458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2453479322",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çarşı",
+        "public_transport": "platform",
+        "public_transport:version": "2",
+        "ref": "FB1",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.025459,
+          40.9910448
+        ]
+      },
+      "id": "node/2453479322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476082345",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Barış Manço",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0340857,
+          40.9870781
+        ]
+      },
+      "id": "node/2476082345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3073956670",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kuyubaşı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0481184,
+          40.9858676
+        ]
+      },
+      "id": "node/3073956670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068064213",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Erenköy",
+        "operator": "İETT",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0693368,
+          40.9665123
+        ]
+      },
+      "id": "node/4068064213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068064214",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Göztepe",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0600295,
+          40.9715005
+        ]
+      },
+      "id": "node/4068064214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068064215",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Göztepe",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0562623,
+          40.9672982
+        ]
+      },
+      "id": "node/4068064215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068064216",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Caddebostan",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0645973,
+          40.9641386
+        ]
+      },
+      "id": "node/4068064216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169865015",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kadıköy",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.022835,
+          40.9913972
+        ]
+      },
+      "id": "node/4169865015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4397565290",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taksi",
+        "name:tr": "Taksi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0425569,
+          40.9706407
+        ]
+      },
+      "id": "node/4397565290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557019485",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kozyatağı Metro",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0988159,
+          40.9751317
+        ]
+      },
+      "id": "node/4557019485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4578703995",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Konak",
+        "name:tr": "Улица багдат",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0444256,
+          40.9798061
+        ]
+      },
+      "id": "node/4578703995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4581926191",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Marmara Üniversitesi Göztepe Yerleşkesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0514692,
+          40.9850607
+        ]
+      },
+      "id": "node/4581926191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840191841",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "E10/E11/Havabüs Sabiha Gökçen Havaalanı Otobüsü",
+        "name:en": "E10/E11/Havabus Sabiha Gökçen Airport Shuttle",
+        "name:tr": "Sabiha Gökçen Havalimanı Otobüsleri",
+        "public_transport": "platform",
+        "route_ref": "E-10;E-11",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0246729,
+          40.9936216
+        ]
+      },
+      "id": "node/4840191841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4917385621",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Şebnem Sokak",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1029706,
+          40.9647706
+        ]
+      },
+      "id": "node/4917385621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5101777021",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ihlamur",
+        "name:en": "Ihlamur",
+        "name:tr": "Ihlamur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0413967,
+          40.9811341
+        ]
+      },
+      "id": "node/5101777021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5101777022",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çiftehavuzlar",
+        "name:tr": "Çiftehavuzlar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0530217,
+          40.9702612
+        ]
+      },
+      "id": "node/5101777022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5448179622",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Havabus to Sabiha Gokcen",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0896974,
+          40.9854618
+        ]
+      },
+      "id": "node/5448179622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486042023",
+        "alt_name": "Kadıköy İski",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "İskele Meydani",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0208065,
+          40.9907998
+        ]
+      },
+      "id": "node/5486042023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820895199",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Göztepe Eğitim ve Araştırma Hastanesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "surface": "asphalt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0590706,
+          40.9841738
+        ]
+      },
+      "id": "node/5820895199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820895200",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Göztepe Eğitim ve Araştırma Hastanesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "surface": "asphalt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0593748,
+          40.9839257
+        ]
+      },
+      "id": "node/5820895200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820895201",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Göztepe Eğitim ve Araştırma Hastanesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "surface": "asphalt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0594702,
+          40.985754
+        ]
+      },
+      "id": "node/5820895201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820895202",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Göztepe Eğitim ve Araştırma Hastanesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "surface": "asphalt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0586383,
+          40.9844887
+        ]
+      },
+      "id": "node/5820895202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820895203",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Göztepe Eğitim ve Araştırma Hastanesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "passenger_information_display": "no",
+        "public_transport": "platform",
+        "shelter": "no",
+        "surface": "asphalt",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0588078,
+          40.98377
+        ]
+      },
+      "id": "node/5820895203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6159631936",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FSM Hastanesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1018647,
+          40.9700173
+        ]
+      },
+      "id": "node/6159631936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6159631938",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bostancı Köprüsü",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1046358,
+          40.9651381
+        ]
+      },
+      "id": "node/6159631938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6176997296",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Altıyol",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0299663,
+          40.9899956
+        ]
+      },
+      "id": "node/6176997296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044431",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Şükrü Saraçoğlu Stadı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0389261,
+          40.986344
+        ]
+      },
+      "id": "node/6177044431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044432",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saracoğlu Stadı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0386418,
+          40.9861456
+        ]
+      },
+      "id": "node/6177044432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044433",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kızıltoprak",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0396664,
+          40.9838131
+        ]
+      },
+      "id": "node/6177044433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044434",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kızıltoprak",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0407238,
+          40.9827794
+        ]
+      },
+      "id": "node/6177044434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044435",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yat Limanı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0415865,
+          40.9782344
+        ]
+      },
+      "id": "node/6177044435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044436",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kalamış",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0436297,
+          40.9748397
+        ]
+      },
+      "id": "node/6177044436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044438",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Onsekiz Mart",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0507681,
+          40.9722748
+        ]
+      },
+      "id": "node/6177044438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044439",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tahran Anadolu Lisesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0542866,
+          40.9686271
+        ]
+      },
+      "id": "node/6177044439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177044440",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gelengül",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0597848,
+          40.9657876
+        ]
+      },
+      "id": "node/6177044440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120297",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Caddebostan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0657497,
+          40.9684067
+        ]
+      },
+      "id": "node/6177120297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120298",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yeniyol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0626111,
+          40.9701073
+        ]
+      },
+      "id": "node/6177120298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120299",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çiftehavuzlar",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0551713,
+          40.9741468
+        ]
+      },
+      "id": "node/6177120299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120300",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Selamiçeşme",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0504229,
+          40.9760744
+        ]
+      },
+      "id": "node/6177120300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120301",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Feneryolu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.046642,
+          40.9781984
+        ]
+      },
+      "id": "node/6177120301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120302",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Söğütlüçeşme Metrobüs",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0360451,
+          40.9911963
+        ]
+      },
+      "id": "node/6177120302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120303",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Söğutlüçeşme",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0329995,
+          40.9919514
+        ]
+      },
+      "id": "node/6177120303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120304",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Altıyol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0296504,
+          40.9908528
+        ]
+      },
+      "id": "node/6177120304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177120305",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çarşı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0255049,
+          40.9911819
+        ]
+      },
+      "id": "node/6177120305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209162",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Koşuyolu Köprüsü",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0370391,
+          41.0036473
+        ]
+      },
+      "id": "node/6177209162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209163",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Acıbadem Köprüsü",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0418963,
+          41.0023876
+        ]
+      },
+      "id": "node/6177209163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209165",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Acıbadem Metro İstasyonu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0453542,
+          41.0017329
+        ]
+      },
+      "id": "node/6177209165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209166",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "İstanbul Medeniyet Üniversitesi",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0656888,
+          40.9949881
+        ]
+      },
+      "id": "node/6177209166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209169",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Göztepe Köprüsü",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0718345,
+          40.9927463
+        ]
+      },
+      "id": "node/6177209169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209170",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hastane",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0790263,
+          40.9901731
+        ]
+      },
+      "id": "node/6177209170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209172",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yenisahra",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.088413,
+          40.9860346
+        ]
+      },
+      "id": "node/6177209172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177209173",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yüzbeşevler",
+        "public_transport": "platform",
+        "route_ref": "21B;130A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0951044,
+          40.980737
+        ]
+      },
+      "id": "node/6177209173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183895538",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Acıbadem Lisesi",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0366084,
+          41.0031478
+        ]
+      },
+      "id": "node/6183895538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6189465765",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saracoğlu Stadı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0375044,
+          40.9853757
+        ]
+      },
+      "id": "node/6189465765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6191487942",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Kadıköy",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "public_transport": "platform",
+        "route_ref": "14R;21B;319;500A",
+        "shelter": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.024564,
+          40.9942488
+        ]
+      },
+      "id": "node/6191487942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215970422",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sarayardı Caddesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0331759,
+          40.9975618
+        ]
+      },
+      "id": "node/6215970422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215970423",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Güreşçi Yazar Yılmaz",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0367939,
+          40.9972818
+        ]
+      },
+      "id": "node/6215970423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215970424",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "İkbaliye",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0393069,
+          41.000118
+        ]
+      },
+      "id": "node/6215970424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6215970425",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "İkbaliye",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0389006,
+          41.0001039
+        ]
+      },
+      "id": "node/6215970425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216051299",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Güreşçi Yazar Yılmaz",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0364762,
+          40.9973644
+        ]
+      },
+      "id": "node/6216051299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216051300",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sarayardı Caddesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0327478,
+          40.9979063
+        ]
+      },
+      "id": "node/6216051300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6248152390",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Koşuyolu Köprüsü",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İstanbul Büyükşehir Belediyesi",
+        "public_transport": "platform",
+        "route_ref": "21B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0347555,
+          41.0031704
+        ]
+      },
+      "id": "node/6248152390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6262189951",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Uzunçayır Metrobüs",
+        "public_transport": "platform",
+        "route_ref": "21B",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0573842,
+          40.9979919
+        ]
+      },
+      "id": "node/6262189951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131378",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Şemsettin Günaltay Caddesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0897081,
+          40.9634675
+        ]
+      },
+      "id": "node/6539131378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131379",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ayşekadın",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0871373,
+          40.9665374
+        ]
+      },
+      "id": "node/6539131379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131380",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kazasker",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.084765,
+          40.969725
+        ]
+      },
+      "id": "node/6539131380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131381",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "19 Mayıs Mahallesi Şehit Orhun Göytan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0827942,
+          40.973103
+        ]
+      },
+      "id": "node/6539131381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131382",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tüccarbaşı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0799549,
+          40.9760435
+        ]
+      },
+      "id": "node/6539131382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131383",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahrayıcedit Camii",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0760881,
+          40.9803448
+        ]
+      },
+      "id": "node/6539131383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539131384",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahrayıcedit",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0737064,
+          40.9807044
+        ]
+      },
+      "id": "node/6539131384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539179185",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Göztepe",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0694661,
+          40.9816211
+        ]
+      },
+      "id": "node/6539179185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539179186",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çemenzar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0642076,
+          40.9830711
+        ]
+      },
+      "id": "node/6539179186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539179187",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kuyubaşı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0485804,
+          40.9860244
+        ]
+      },
+      "id": "node/6539179187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224122",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kadıköy Belediyesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0364814,
+          40.9927475
+        ]
+      },
+      "id": "node/6540224122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224123",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Marmara Üniversitesi Göztepe Yerleşkesi",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0518562,
+          40.9847714
+        ]
+      },
+      "id": "node/6540224123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224124",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Çemenzar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0639744,
+          40.9828531
+        ]
+      },
+      "id": "node/6540224124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224125",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Göztepe",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.069814,
+          40.9812393
+        ]
+      },
+      "id": "node/6540224125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224126",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahrayıcedit Camii",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0758377,
+          40.9800958
+        ]
+      },
+      "id": "node/6540224126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224127",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ethemefendi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.077848,
+          40.9784819
+        ]
+      },
+      "id": "node/6540224127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224128",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tüccarbaşı",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0797946,
+          40.9755748
+        ]
+      },
+      "id": "node/6540224128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224129",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Şehit Orhun Göytan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0824277,
+          40.9730791
+        ]
+      },
+      "id": "node/6540224129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224130",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kazasker",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0845937,
+          40.9693753
+        ]
+      },
+      "id": "node/6540224130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540224131",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ayşekadın",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0870499,
+          40.9659494
+        ]
+      },
+      "id": "node/6540224131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548520818",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Ayrılıkçeşme Marmaray",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0299355,
+          41.0002522
+        ]
+      },
+      "id": "node/6548520818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548520819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Haydarpaşa Öğrenci Yurdu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0288292,
+          41.0021247
+        ]
+      },
+      "id": "node/6548520819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555600131",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Koşuyolu Köprüsü",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0339844,
+          41.0045818
+        ]
+      },
+      "id": "node/6555600131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6696447464",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Karakol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0738579,
+          40.9719259
+        ]
+      },
+      "id": "node/6696447464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6696447465",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Karakol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0736137,
+          40.9718991
+        ]
+      },
+      "id": "node/6696447465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6786321760",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cemil Topuzlu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.046939,
+          40.9741688
+        ]
+      },
+      "id": "node/6786321760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7015570586",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "17 Kadıköy-Pendik",
+        "public_transport": "platform",
+        "ref": "17;17L",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0239507,
+          40.9924791
+        ]
+      },
+      "id": "node/7015570586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7875173748",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bostancı Sapağı",
+        "network": "İETT",
+        "network:wikidata": "Q343136",
+        "operator": "İETT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1045548,
+          40.9641407
+        ]
+      },
+      "id": "node/7875173748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8017436832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Harun Reşit İlköğretim Okulu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.071467,
+          40.9829512
+        ]
+      },
+      "id": "node/8017436832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8193533004",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Uzunçayır Metrobüs",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0550354,
+          40.9987582
+        ]
+      },
+      "id": "node/8193533004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8742328835",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nevzat Ayasbeyoğlu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0793291,
+          40.9810997
+        ]
+      },
+      "id": "node/8742328835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9255575417",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Siteler",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0800445,
+          40.9799055
+        ]
+      },
+      "id": "node/9255575417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288129888",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahrayıcedit Atatürk Caddesi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0908712,
+          40.980898
+        ]
+      },
+      "id": "node/9288129888"
+    }
+  ]
+}
